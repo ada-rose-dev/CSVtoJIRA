@@ -1,6 +1,8 @@
 # CSVtoJIRA
 A C# app to quickly convert .CSV files to JIRA tables.
 
+## ___[Download](./CSVtoJIRA.exe)___
+
 ## How to Use
 Simply save your Excel worksheet as a .csv file, then pull that file into the program and convert it to a JIRA table. Bing bang boom.
 
