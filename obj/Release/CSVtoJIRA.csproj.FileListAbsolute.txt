@@ -1,0 +1,13 @@
+C:\Users\PhoenixMandala\source\repos\CSVtoJIRA\CSVtoJIRA\bin\Release\CSVtoJIRA.exe.config
+C:\Users\PhoenixMandala\source\repos\CSVtoJIRA\CSVtoJIRA\bin\Release\CSVtoJIRA.exe.manifest
+C:\Users\PhoenixMandala\source\repos\CSVtoJIRA\CSVtoJIRA\bin\Release\CSVtoJIRA.application
+C:\Users\PhoenixMandala\source\repos\CSVtoJIRA\CSVtoJIRA\bin\Release\CSVtoJIRA.exe
+C:\Users\PhoenixMandala\source\repos\CSVtoJIRA\CSVtoJIRA\bin\Release\CSVtoJIRA.pdb
+C:\Users\PhoenixMandala\source\repos\CSVtoJIRA\CSVtoJIRA\obj\Release\CSVtoJIRA.Form1.resources
+C:\Users\PhoenixMandala\source\repos\CSVtoJIRA\CSVtoJIRA\obj\Release\CSVtoJIRA.Properties.Resources.resources
+C:\Users\PhoenixMandala\source\repos\CSVtoJIRA\CSVtoJIRA\obj\Release\CSVtoJIRA.csproj.GenerateResource.cache
+C:\Users\PhoenixMandala\source\repos\CSVtoJIRA\CSVtoJIRA\obj\Release\CSVtoJIRA.csproj.CoreCompileInputs.cache
+C:\Users\PhoenixMandala\source\repos\CSVtoJIRA\CSVtoJIRA\obj\Release\CSVtoJIRA.exe.manifest
+C:\Users\PhoenixMandala\source\repos\CSVtoJIRA\CSVtoJIRA\obj\Release\CSVtoJIRA.application
+C:\Users\PhoenixMandala\source\repos\CSVtoJIRA\CSVtoJIRA\obj\Release\CSVtoJIRA.exe
+C:\Users\PhoenixMandala\source\repos\CSVtoJIRA\CSVtoJIRA\obj\Release\CSVtoJIRA.pdb

@@ -1,0 +1,14 @@
+C:\Users\PhoenixMandala\source\repos\CSVtoJIRA\CSVtoJIRA\bin\Debug\CSVtoJIRA.exe.config
+C:\Users\PhoenixMandala\source\repos\CSVtoJIRA\CSVtoJIRA\bin\Debug\CSVtoJIRA.exe
+C:\Users\PhoenixMandala\source\repos\CSVtoJIRA\CSVtoJIRA\bin\Debug\CSVtoJIRA.pdb
+C:\Users\PhoenixMandala\source\repos\CSVtoJIRA\CSVtoJIRA\obj\Debug\CSVtoJIRA.csprojAssemblyReference.cache
+C:\Users\PhoenixMandala\source\repos\CSVtoJIRA\CSVtoJIRA\obj\Debug\CSVtoJIRA.Form1.resources
+C:\Users\PhoenixMandala\source\repos\CSVtoJIRA\CSVtoJIRA\obj\Debug\CSVtoJIRA.Properties.Resources.resources
+C:\Users\PhoenixMandala\source\repos\CSVtoJIRA\CSVtoJIRA\obj\Debug\CSVtoJIRA.csproj.GenerateResource.cache
+C:\Users\PhoenixMandala\source\repos\CSVtoJIRA\CSVtoJIRA\obj\Debug\CSVtoJIRA.csproj.CoreCompileInputs.cache
+C:\Users\PhoenixMandala\source\repos\CSVtoJIRA\CSVtoJIRA\obj\Debug\CSVtoJIRA.exe
+C:\Users\PhoenixMandala\source\repos\CSVtoJIRA\CSVtoJIRA\obj\Debug\CSVtoJIRA.pdb
+C:\Users\PhoenixMandala\source\repos\CSVtoJIRA\CSVtoJIRA\bin\Debug\CSVtoJIRA.exe.manifest
+C:\Users\PhoenixMandala\source\repos\CSVtoJIRA\CSVtoJIRA\bin\Debug\CSVtoJIRA.application
+C:\Users\PhoenixMandala\source\repos\CSVtoJIRA\CSVtoJIRA\obj\Debug\CSVtoJIRA.exe.manifest
+C:\Users\PhoenixMandala\source\repos\CSVtoJIRA\CSVtoJIRA\obj\Debug\CSVtoJIRA.application
